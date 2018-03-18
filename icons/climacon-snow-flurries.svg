@@ -36,6 +36,8 @@
             animation-timing-function: linear;
             animation-duration: 12s;
             animation-direction: normal;
+            transform-box: fill-box;
+
         }
 
         .climacon_component-snowAlt {
