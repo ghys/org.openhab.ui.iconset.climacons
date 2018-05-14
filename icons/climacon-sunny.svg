@@ -21,6 +21,7 @@
             -moz-transform-origin: 50% 50%;
             -o-transform-origin: 50% 50%;
             transform-origin: 50% 50%;
+            transform-box: fill-box;
 
             -webkit-animation-timing-function: linear;
             -moz-animation-timing-function: linear;

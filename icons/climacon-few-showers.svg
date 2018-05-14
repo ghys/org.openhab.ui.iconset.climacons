@@ -20,6 +20,7 @@
             -moz-transform-origin: 50% 50%;
             -o-transform-origin: 50% 50%;
             transform-origin: 50% 50%;
+            transform-box: fill-box;
 
             -webkit-animation-iteration-count: infinite;
             -moz-animation-iteration-count: infinite;
